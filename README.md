@@ -1,10 +1,10 @@
-## CNN Handwritten Digit Recognition
+## CNN Handwritten Dzongkha Digit Recognition
 
-A hands-on deep learning project implementing a Convolutional Neural Network (CNN) to recognise handwritten digits (0–9).
+This project explores the performance of Convolutional Neural Networks (CNNs) in recognising handwritten Bhutanese Dzongkha digits (0–9).
 
 ## About the Project
 
-This project explores how CNNs can be used for image classification. The model learns patterns and features from handwritten digit images and uses them to predict the corresponding digit.
+The motivation behind this project was to understand how well a deep learning model can learn and recognise patterns from our own Bhutanese handwritten digit dataset.
 
 ## What I Learned
 
