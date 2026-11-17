@@ -37,7 +37,7 @@ This project explores how CNNs can be used for image classification. The model l
 
 ## Project Structure
 
-- "CNN.ipynb" – Notebook containing the implementation and practical experiments.
+- "conv.ipynb" – Notebook containing the implementation and practical experiments.
 
 ## Project Objective
 
